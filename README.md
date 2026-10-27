@@ -94,6 +94,8 @@ Excel-Project/
 
 This module focuses on organizing student records and evaluating academic performance using Excel formulas and formatting tools.
 
+<img width="1322" height="687" alt="image" src="https://github.com/user-attachments/assets/33286e46-5c8f-47ef-a881-853312087975" />
+
 **Key Activities**
 
 - Organizing student details and marks.
@@ -111,6 +113,8 @@ This module focuses on organizing student records and evaluating academic perfor
 ### 2. 💰 Sales Data Analysis
 
 This module explores sales records to understand business performance, customer purchasing behavior, and regional sales patterns.
+
+<img width="1812" height="687" alt="image" src="https://github.com/user-attachments/assets/5d5bb7e8-d991-432c-998a-b88b595748ee" />
 
 **Key Activities**
 
@@ -131,6 +135,8 @@ This module explores sales records to understand business performance, customer 
 ### 3. 👥 Employee Data Analysis
 
 This module demonstrates how Excel can organize employee information and automate salary-related calculations.
+
+<img width="720" height="685" alt="image" src="https://github.com/user-attachments/assets/f2902e33-4f77-40cc-a78e-c135374d525f" />
 
 **Key Activities**
 
@@ -240,6 +246,9 @@ Features include:
 
 PivotTables summarize data efficiently by categories such as region, department, or customer.
 
+<img width="1077" height="690" alt="image" src="https://github.com/user-attachments/assets/148ae3e5-aa93-43cc-81ac-712579af08e8" />
+
+
 They can be used to:
 
 - Compare regional sales.
@@ -265,6 +274,8 @@ Examples:
 ## 💼 Business Insights and Data Storytelling
 
 Data storytelling combines data, analysis, and clear explanations to communicate meaningful findings.
+
+<img width="847" height="690" alt="image" src="https://github.com/user-attachments/assets/9ded0e93-b3ce-4f75-8a85-93197cb5bb4e" />
 
 The sales analysis can help answer important business questions:
 
